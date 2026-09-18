@@ -4,7 +4,7 @@ A lightweight terminal user interface (TUI) dashboard built in Go to capture, pa
 
 
 
-![tmuxscope Demo](https://github.com/maulicodes/tmuxscope/issues/1#issue-5502549209)
+![Video](https://github.com/maulicodes/tmuxscope/issues/1#issue-5502549209)
 ## Key Features
 * **Top Commands Analytics**: Automatically aggregates your most frequently executed CLI commands (e.g., `git`, `go`, `vim`, `cargo`) across active `tmux` sessions.
 * **Custom Stream Parsing (`internal/core/parser.go`)**: Strips ANSI escape sequences and extracts structured command logs from raw terminal output.
